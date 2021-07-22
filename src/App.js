@@ -32,6 +32,7 @@ class App extends Component{
     ))
     return(
       <div class="App">
+      <h6>Refresh the Page to load new color blocks</h6>
         {boxes}
       </div>
     )
